@@ -1,7 +1,7 @@
 {
   "name": "electron-dev-bundle",
   "private": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A module which bundles all the cool modules which can help speed up the development of an electron app.",
   "main": "index.js",
   "scripts": {
