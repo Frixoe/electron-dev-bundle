@@ -1,4 +1,4 @@
-# electron-bundle
+# electron-bundle [![npm version](https://badge.fury.io/js/electron-dev-bundle.svg)](https://badge.fury.io/js/electron-dev-bundle)
 
 A very simple module which bundles all of the packages I think are necessary for any Electron app while development.
 
