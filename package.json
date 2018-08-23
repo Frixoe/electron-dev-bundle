@@ -10,8 +10,7 @@
   },
   "keywords": [
     "bundle",
-    "electron",
-    "cli"
+    "electron"
   ],
   "author": "Suryansh S. <business.suryansh@gmail.com>",
   "repository": {
