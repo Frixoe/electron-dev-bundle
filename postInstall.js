@@ -1,0 +1,1 @@
+console.log("SUCCESS: You are now ready to develop amazing electron applications!");
