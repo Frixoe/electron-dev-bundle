@@ -1,5 +1,5 @@
 {
-  "name": "electron-bundle",
+  "name": "electron-dev-bundle",
   "private": false,
   "version": "0.1.0",
   "description": "A module which bundles all the cool modules which can help speed up the development of an electron app.",
@@ -16,7 +16,7 @@
   "author": "Suryansh S. <business.suryansh@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Frixoe/electron-bundle.git"
+    "url": "https://github.com/Frixoe/electron-dev-bundle.git"
   },
   "license": "MIT",
   "dependencies": {
